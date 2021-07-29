@@ -1,0 +1,19 @@
+{
+  "name": "aws-ec2-autodeploy-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Troy-Yang/aws-ec2-autodeploy-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Troy-Yang/aws-ec2-autodeploy-node/issues"
+  },
+  "homepage": "https://github.com/Troy-Yang/aws-ec2-autodeploy-node#readme"
+}
